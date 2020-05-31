@@ -1,3 +1,5 @@
 saya pengen terus belajara
 okeh akan kita coba lagi
 belajar sek
+belajar git dan github
+untuk prepare hekathon
